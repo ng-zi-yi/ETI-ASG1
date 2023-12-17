@@ -33,7 +33,7 @@
 
 
 2. Microservices Setup
-   - After cloning the repository, navigate to the root directory each microservice and run 'go run user.go' and 'go run trip.go'.
+   - After cloning the repository, navigate to the root directory of each microservice and run 'go run user.go' and 'go run trip.go'.
    - User microservice runs on port 5001, and Trip microservice runs on port 5002.
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/7b598199-9572-49a8-90a1-379ec2ef2f45)
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/58d43d8d-b165-4bf2-b1d7-6a478c7c0f83)
