@@ -119,6 +119,11 @@
   
    - Step 19: Enrol Trip again using TripID 8 to show the unsuccessful enrolment message due to no vacancies available<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/4ce3c4b4-03cc-44d3-b078-50af75fc80b8)
+
+   - Step 20: View all trips that passengers have enrolled for in the past<br>
+               (Select option 5 from Passenger main menu)
+   ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/52f8c86c-549c-4fca-8df9-195baf69f253)
+
   
    - Step 20: Exit/Logout and Log back in using 'johnlim@gmail.com' (As John is a Car Owner after Log in it shows Car Owner Main Menu)<br>
              (select option 0 to exit, run 'go run admin.go', select option 2 'Login')<br>
