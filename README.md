@@ -12,7 +12,7 @@
    - Features include trip creation, listing all available trips (Passenger side), listing all created trips (Car Owner side), starting a trip, cancelling a trip, searching for a trip, enroling in a trip, and viewing past trips
    - Car Owners can publish new trips, specifying details such as pickup locations, destination, timings, maximum passengers
    - Car Owners can start or cancel trips based on specific conditions from viewing all of their created trips
-   - Passengers can search for all available trips based on destination and enrol in available trips with vacancies and no datetime clashes with their other enroled trips
+   - Passengers can search for trips based on destination and enrol in available trips with vacancies and no datetime clashes with their other enroled trips
      
 3.  Overall
     - Communication between microservices is implemented via HTTP RESTful APIs
