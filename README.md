@@ -139,7 +139,7 @@
 - From the User Table in MySQL you can see that the deleted users Del and Bach are gone <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/c58dcb85-b2df-4f96-8243-82b953026f23)
 - The updated Trip table <br>
-![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/b152fb55-4fb6-4f94-859a-11fb2557a173)
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/d26478c3-d959-4846-85f7-883b1a77e720)
 - The updated TripEnrolment table <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/f867f641-a0a7-4899-be44-6f16fc5afe2b)
 
