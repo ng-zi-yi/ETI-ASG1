@@ -42,27 +42,27 @@
    - At the console application 'admin.go' run 'go run admin.go' to interact with the microservices
    - Throughout the demo, can check if there have been updates or changes to the data in the MySQL database. While the console application provides real-time interactions, can manually inspect the database for changes.
    - Step 1: Create an Account and input First Name, Last Name, Mobile Number, Email Address
-             (Select option 1 from the start menu)
+             (Select option 1 from the start menu)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/9558b9d6-a0a9-4c2b-8e9a-cf2a7ca4b3b3)
      
    - Step 2: Login using newly created account's email<br>
-             (Select option 2 from the start menu)
+             (Select option 2 from the start menu)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/115624e2-9ad3-426a-863e-b70b42391b60)
      
    - Step 3: Delete Account (Unsuccessful Deletion Message as Account isn't 1 year old)<br>
-             (Select option 3 from the Passenger Main Menu)
+             (Select option 3 from the Passenger Main Menu)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/ebc92025-7544-406c-96ae-1baa6020270f)
      
-   - Step 4: Exit and Log back in with 'del@gmail.com'
+   - Step 4: Exit and Log back in with 'del@gmail.com'<br>
              (Select option 0 'Exit', run 'go run admin.go', select option 2 'Login')<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/f1e3ce9e-66eb-492f-bf26-b998ec915d44)
       
    - Step 5: Delete Del's Account (Successful Deletion as Account is older than 1 year)<br>
-             (Select option 3 from the Passenger Main Menu)
+             (Select option 3 from the Passenger Main Menu)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/3790b377-7456-4cf0-b734-88f2d93caedc)
   
    - Step 6: Log back in with created account's email<br>
-             (Run 'go run admin.go', select option 2 'Login')
+             (Run 'go run admin.go', select option 2 'Login')<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/1b392340-4046-4d39-90c8-ddda9d144bea)
      
    - Step 7: Update Profile Information and input new profile information
