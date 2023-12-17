@@ -136,11 +136,11 @@
              (select option 2 from Car Owner Main menu to Delete)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/051c933b-c33b-4309-a147-6b4deded5376)
 
-- From the User Table in MySQL you can see that the deleted users Del and Bach are gone
+- From the User Table in MySQL you can see that the deleted users Del and Bach are gone <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/c58dcb85-b2df-4f96-8243-82b953026f23)
-- The updated Trip table
+- The updated Trip table <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/b152fb55-4fb6-4f94-859a-11fb2557a173)
-- The updated TripEnrolment table
+- The updated TripEnrolment table <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/f867f641-a0a7-4899-be44-6f16fc5afe2b)
 
 
