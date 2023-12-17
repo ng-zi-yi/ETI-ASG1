@@ -20,7 +20,7 @@
     - Console Applcation developed in Go supports both passenger and car owner functionalities
 
 ## Architecture Diagram
-    ![eti asg 1 architecture diagram](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/db7c9780-641d-44a2-955d-81ee5e3a2d59)
+    ![eti asg 1 architecture diagram](https://github.com/ng-zi-yi/ETI-ASG1/eti-asg1-architecture-diagram.png)
 
 ## Instructions for setting up and running my microservices
 1. Database Setup
