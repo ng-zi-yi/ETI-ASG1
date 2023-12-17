@@ -124,20 +124,19 @@
                (Select option 5 from Passenger main menu)
    ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/52f8c86c-549c-4fca-8df9-195baf69f253)
 
-  
-   - Step 20: Exit/Logout and Log back in using 'johnlim@gmail.com' (As John is a Car Owner after Log in it shows Car Owner Main Menu)<br>
+   - Step 22: Exit/Logout and Log back in using 'johnlim@gmail.com' (As John is a Car Owner after Log in it shows Car Owner Main Menu)<br>
              (select option 0 to exit, run 'go run admin.go', select option 2 'Login')<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/ad4d71b7-0a51-482f-b20d-b4110df5153e)
      
-   - Step 21: List all created trips and Cancel Trip with TripID 6 to show the unsuccessful cancelation message as trip can only be cancelled 30 minutes before the scheduled time<br>
+   - Step 22: List all created trips and Cancel Trip with TripID 6 to show the unsuccessful cancelation message as trip can only be cancelled 30 minutes before the scheduled time<br>
              (Select option 4 from Car Owner Main Menu, Select option 2 from the manage trip menu -> from list all created trips)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/c2c81e79-a8f5-4100-8a8f-33a41399c6a6)
 
-   - Step 22: Exit/Logout and Log back in using 'bach@gmail.com' to demonstrate delete using Car Owner Account<br>
+   - Step 23: Exit/Logout and Log back in using 'bach@gmail.com' to demonstrate delete using Car Owner Account<br>
              (select option 1 to exit, run 'go run admin.go', select option 2 'Login')<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/9c122aa0-f1c1-40bf-8d06-676b3d78a67d)
 
-   - Step 23: Select Delete Account, after deletion the program will exit<br>
+   - Step 24: Select Delete Account, after deletion the program will exit<br>
              (select option 2 from Car Owner Main menu to Delete)<br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/051c933b-c33b-4309-a147-6b4deded5376)
 
