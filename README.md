@@ -21,7 +21,11 @@
 
 ## Architecture Diagram
 ![eti asg 1 architecture diagram](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/b7fa8f73-00fc-4ab8-86fd-89ddc9d2e435)
-
+   - Both User and Trip microservices share a common MySQL database 'carpooling_db'
+   - The User Microservice uses the User table in the database
+   - The Trip Microservice uses the Trip table and TripEnrolment table in the database
+   - Each microservice communicates with its respective table
+   - The Console Application 'admin.go' interacts with both microservices through their APIs
 
 ## Instructions for setting up and running my microservices
 1. Database Setup
