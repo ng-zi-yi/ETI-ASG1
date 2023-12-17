@@ -31,18 +31,23 @@
 1. Database Setup
    - Execute the SQL script 'carpooling_db.sql' to create the required database and tables (User, Trip, TripEnrolment)
 
+
 2. Microservices Setup
    - After cloning the repository, navigate to the root directory each microservice and run 'go run user.go' and 'go run trip.go'.
    - User microservice runs on port 5001, and Trip microservice runs on port 5002.
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/7b598199-9572-49a8-90a1-379ec2ef2f45)
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/58d43d8d-b165-4bf2-b1d7-6a478c7c0f83)
 
 3. Console Application (Demo)
    - At the console application 'admin.go' run 'go run admin.go' to interact with the microservices
    - Throughout the demo, can check if there have been updates or changes to the data in the MySQL database. While the console application provides real-time interactions, can manually inspect the database for changes.
    - Step 1: Create an Account and input First Name, Last Name, Mobile Number, Email Address
              (Select option 1 from the start menu)
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/9558b9d6-a0a9-4c2b-8e9a-cf2a7ca4b3b3)
      
    - Step 2: Login using newly created account's email
              (Select option 2 from the start menu)
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/115624e2-9ad3-426a-863e-b70b42391b60)
      
    - Step 3: Delete Account (Unsuccessful Deletion Message as Account isn't 1 year old)
              (Select option 3 from the Passenger Main Menu)
