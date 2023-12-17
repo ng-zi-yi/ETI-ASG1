@@ -103,7 +103,7 @@
      
    - Step 15: List all available/published trips (only trips with 'Waiting' status will be shown)<br>
              (Select option 4 from the Passenger main menu)<br>
-![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/9357cdfa-ecb0-4d49-9dea-d9bbad0177b7)
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/9357cdfa-ecb0-4d49-9dea-d9bbad0177b7) <br>
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/845f6c7f-d384-498c-b8ca-f780850666e8)
     
    - Step 16: Search for Trip by Destination Address<br>
@@ -138,6 +138,10 @@
 
 - From the User Table in MySQL you can see that the deleted users Del and Bach are gone
 ![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/c58dcb85-b2df-4f96-8243-82b953026f23)
+- The updated Trip table
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/b152fb55-4fb6-4f94-859a-11fb2557a173)
+- The updated TripEnrolment table
+![image](https://github.com/ng-zi-yi/ETI-ASG1/assets/93900155/f867f641-a0a7-4899-be44-6f16fc5afe2b)
 
 
 
