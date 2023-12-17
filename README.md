@@ -1,17 +1,29 @@
 # ETI-ASG1
 
-## 1. Design Consideration of my microservices
-### 1.1 User Microservice
+## Design Consideration of my microservices
+1. User Microservice
+   - Manages user accounts, user information, and account-related operations
+   - Utilizes the User Table in the 'carpooling_db' MySQL database to store user information
+   - Features include account creation, login, profile update, allowing passengers to upgrade to car owner account, and account deletion
 
-### 1.2 Trip Microservice
-
-### 1.3 
+2. Trip Microservice
+   - Handles the creation, management, and status of carpooling trips
+   - Utilizes the Trip Table in the 'carpooling_db' MySQL database to store trip-related data
+   - Features include trip creation, listing all available trips (Passenger side), listing all created trips (Car Owner side), starting a trip, cancelling a trip, searching for a trip, enroling in a trip, and viewing past trips
+   - Car Owners can publish new trips, specifying details such as pickup locations, destination, timings, maximum passengers
+   - Car Owners can start or cancel trips based on specific conditions from viewing all of their created trips
+   - Passengers can search for all available trips based on destination and enrol in available trips with vacancies and no datetime clashes with their other enroled trips
+     
+3.  Overall
+    - Communication between microservices is implemented via HTTP RESTful APIs
+    - Data Consistency is acheived through the use of the relational MySQL database 'carpooling_db'
+    - Console Applcation developed in Go supports both passenger and car owner functionalities
 
 ## Architecture Diagram
  
 ## Instructions for setting up and running my microservices
 1. Database Setup
-   Execute the SQL script 'carpooling_db.sql' to create the required database and tables (User, Trip, TripEnrolment)
+   - Execute the SQL script 'carpooling_db.sql' to create the required database and tables (User, Trip, TripEnrolment)
 
 2. Microservices Setup
    - After cloning the repository, navigate to the root directory each microservice and run 'go run user.go' and 'go run trip.go'.
